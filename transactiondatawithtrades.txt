@@ -1,0 +1,300 @@
+Data for the 2015 season: 
+Jacques St-Laurent: 
+Waiver wire pickups: 39
+Trades: 1
+
+Alexander Murphy: 
+Waiver wire pickups: 49
+Trades: 0
+
+Dan Markgraf: 
+Waiver wire pickups: 12
+Trades: 0
+
+Jim Markgraf: 
+Waiver wire pickups: 14
+Trades: 0
+
+Alexander Gauch: 
+Waiver wire pickups: 33
+Trades: 0
+
+Dominique Stlaurent: 
+Waiver wire pickups: 17
+Trades: 0
+
+Seth Calhoun: 
+Waiver wire pickups: 9
+Trades: 1
+
+Taylor Murphy: 
+Waiver wire pickups: 21
+Trades: 0
+
+Chris Johnson: 
+Waiver wire pickups: 16
+Trades: 0
+
+Courtney Knickerbocker: 
+Waiver wire pickups: 15
+Trades: 0
+
+Actually Joe Philbin: 
+Waiver wire pickups: 26
+Trades: 0
+
+Christopher Gauch: 
+Waiver wire pickups: 17
+Trades: 0
+
+
+Data for the 2016 season: 
+Jacques St-Laurent: 
+Waiver wire pickups: 48
+Trades: 2
+
+Alexander Murphy: 
+Waiver wire pickups: 30
+Trades: 2
+
+Dan Markgraf: 
+Waiver wire pickups: 15
+Trades: 0
+
+Jim Markgraf: 
+Waiver wire pickups: 30
+Trades: 0
+
+Dominique Stlaurent: 
+Waiver wire pickups: 29
+Trades: 1
+
+Taylor Murphy: 
+Waiver wire pickups: 19
+Trades: 1
+
+Chris Johnson: 
+Waiver wire pickups: 11
+Trades: 1
+
+Actually Joe Philbin: 
+Waiver wire pickups: 19
+Trades: 1
+
+Eric Gibson: 
+Waiver wire pickups: 50
+Trades: 4
+
+Chris Patsis: 
+Waiver wire pickups: 20
+Trades: 0
+
+Laura Bailly: 
+Waiver wire pickups: 10
+Trades: 0
+
+Joseph Landry: 
+Waiver wire pickups: 4
+Trades: 2
+
+
+Data for the 2017 season: 
+Jacques St-Laurent: 
+Waiver wire pickups: 36
+Trades: 0
+
+Alexander Murphy: 
+Waiver wire pickups: 42
+Trades: 1
+
+Dan Markgraf: 
+Waiver wire pickups: 17
+Trades: 3
+
+Jim Markgraf: 
+Waiver wire pickups: 25
+Trades: 2
+
+Dominique Stlaurent: 
+Waiver wire pickups: 11
+Trades: 0
+
+Taylor Murphy: 
+Waiver wire pickups: 30
+Trades: 1
+
+Chris Johnson: 
+Waiver wire pickups: 11
+Trades: 0
+
+Actually Joe Philbin: 
+Waiver wire pickups: 28
+Trades: 1
+
+Eric Gibson: 
+Waiver wire pickups: 63
+Trades: 7
+
+Chris Patsis: 
+Waiver wire pickups: 15
+Trades: 1
+
+Benjamin Waksler: 
+Waiver wire pickups: 18
+Trades: 2
+
+Joseph Landry: 
+Waiver wire pickups: 4
+Trades: 2
+
+
+Data for the 2018 season: 
+Jacques St-Laurent: 
+Waiver wire pickups: 42
+Trades: 2
+
+Alexander Murphy: 
+Waiver wire pickups: 45
+Trades: 5
+
+Dan Markgraf: 
+Waiver wire pickups: 11
+Trades: 1
+
+Jim Markgraf: 
+Waiver wire pickups: 35
+Trades: 1
+
+Dominique Stlaurent: 
+Waiver wire pickups: 40
+Trades: 1
+
+Taylor Murphy: 
+Waiver wire pickups: 21
+Trades: 1
+
+Chris Johnson: 
+Waiver wire pickups: 12
+Trades: 1
+
+Actually Joe Philbin: 
+Waiver wire pickups: 27
+Trades: 1
+
+Eric Gibson: 
+Waiver wire pickups: 22
+Trades: 3
+
+Chris Patsis: 
+Waiver wire pickups: 21
+Trades: 1
+
+Benjamin Waksler: 
+Waiver wire pickups: 22
+Trades: 2
+
+Cami Bechard: 
+Waiver wire pickups: 28
+Trades: 1
+
+
+Data for the 2019 season: 
+Jacques St-Laurent: 
+Waiver wire pickups: 30
+Trades: 3
+
+Alexander Murphy: 
+Waiver wire pickups: 50
+Trades: 2
+
+Dan Markgraf: 
+Waiver wire pickups: 9
+Trades: 1
+
+Jim Markgraf: 
+Waiver wire pickups: 14
+Trades: 0
+
+Dominique Stlaurent: 
+Waiver wire pickups: 36
+Trades: 1
+
+Taylor Murphy: 
+Waiver wire pickups: 12
+Trades: 0
+
+Chris Johnson: 
+Waiver wire pickups: 18
+Trades: 0
+
+Actually Joe Philbin: 
+Waiver wire pickups: 40
+Trades: 1
+
+Eric Gibson: 
+Waiver wire pickups: 49
+Trades: 2
+
+Chris Patsis: 
+Waiver wire pickups: 15
+Trades: 0
+
+Benjamin Waksler: 
+Waiver wire pickups: 31
+Trades: 0
+
+Cami Bechard: 
+Waiver wire pickups: 30
+Trades: 2
+
+
+Data for the 2020 season: 
+Jacques St-Laurent: 
+Waiver wire pickups: 48
+Trades: 0
+
+Alexander Murphy: 
+Waiver wire pickups: 50
+Trades: 2
+
+Dan Markgraf: 
+Waiver wire pickups: 10
+Trades: 2
+
+Jim Markgraf: 
+Waiver wire pickups: 37
+Trades: 2
+
+Dominique Stlaurent: 
+Waiver wire pickups: 20
+Trades: 0
+
+Taylor Murphy: 
+Waiver wire pickups: 10
+Trades: 1
+
+Chris Johnson: 
+Waiver wire pickups: 10
+Trades: 0
+
+Matt Patsis: 
+Waiver wire pickups: 22
+Trades: 0
+
+Eric Gibson: 
+Waiver wire pickups: 32
+Trades: 1
+
+Chris Patsis: 
+Waiver wire pickups: 17
+Trades: 0
+
+Benjamin Waksler: 
+Waiver wire pickups: 16
+Trades: 2
+
+Cami Bechard: 
+Waiver wire pickups: 20
+Trades: 0
+
+
